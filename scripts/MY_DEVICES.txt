@@ -1,0 +1,139 @@
+MY DEVICES
+#############
+
+{
+    "data": [
+        {
+            "capabilities": {},
+            "created_at": 1395066751,
+            "desired_state": {},
+            "device_manufacturer": "quirky_ge",
+            "hidden_at": null,
+            "last_reading": {
+                "connection": null,
+                "connection_updated_at": null
+            },
+            "lat_lng": [
+                null,
+                null
+            ],
+            "locale": "en_us",
+            "location": "",
+            "mac_address": null,
+            "model_name": "Pivot Power Genius",
+            "name": "Pivot Power Genius",
+            "outlets": [
+                {
+                    "desired_state": {
+                        "powered": true
+                    },
+                    "icon_id": "13",
+                    "last_reading": {
+                        "desired_powered": true,
+                        "powered": true,
+                        "powered_updated_at": 1416149668.1799905
+                    },
+                    "name": "Outlet test",
+                    "outlet_id": "14370",
+                    "outlet_index": 0,
+                    "parent_object_id": "7184",
+                    "parent_object_type": "powerstrip",
+                    "powered": true,
+                    "scheduled_outlet_states": []
+                },
+                {
+                    "desired_state": {
+                        "powered": true
+                    },
+                    "icon_id": "8",
+                    "last_reading": {
+                        "desired_powered": true,
+                        "powered": true,
+                        "powered_updated_at": 1415890558.7869713
+                    },
+                    "name": "Outlet #2",
+                    "outlet_id": "14371",
+                    "outlet_index": 1,
+                    "parent_object_id": "7184",
+                    "parent_object_type": "powerstrip",
+                    "powered": true,
+                    "scheduled_outlet_states": []
+                }
+            ],
+            "powerstrip_id": "7184",
+            "serial": null,
+            "subscription": {},
+            "triggers": [],
+            "units": {},
+            "upc_id": "24"
+        },
+        {
+            "capabilities": {},
+            "created_at": 1397954210,
+            "desired_state": {},
+            "device_manufacturer": "quirky_ge",
+            "hidden_at": null,
+            "last_reading": {
+                "connection": null,
+                "connection_updated_at": null
+            },
+            "lat_lng": [
+                null,
+                null
+            ],
+            "locale": "en_us",
+            "location": "",
+            "mac_address": null,
+            "model_name": "Pivot Power Genius",
+            "name": "Pivot Power Genius",
+            "outlets": [
+                {
+                    "desired_state": {
+                        "powered": false
+                    },
+                    "icon_id": "3",
+                    "last_reading": {
+                        "desired_powered": false,
+                        "powered": false,
+                        "powered_updated_at": 1416191961.9409769
+                    },
+                    "name": "Outlet #3",
+                    "outlet_id": "15400",
+                    "outlet_index": 0,
+                    "parent_object_id": "7699",
+                    "parent_object_type": "powerstrip",
+                    "powered": false,
+                    "scheduled_outlet_states": []
+                },
+                {
+                    "desired_state": {
+                        "powered": false
+                    },
+                    "icon_id": "12",
+                    "last_reading": {
+                        "desired_powered": false,
+                        "powered": false,
+                        "powered_updated_at": 1414640968.299874
+                    },
+                    "name": "Outlet #4",
+                    "outlet_id": "15401",
+                    "outlet_index": 1,
+                    "parent_object_id": "7699",
+                    "parent_object_type": "powerstrip",
+                    "powered": false,
+                    "scheduled_outlet_states": []
+                }
+            ],
+            "powerstrip_id": "7699",
+            "serial": null,
+            "subscription": {},
+            "triggers": [],
+            "units": {},
+            "upc_id": "24"
+        }
+    ],
+    "errors": [],
+    "pagination": {
+        "count": 2
+    }
+}
